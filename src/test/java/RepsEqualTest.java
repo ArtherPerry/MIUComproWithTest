@@ -16,7 +16,7 @@ public class RepsEqualTest {
         assertEquals(0,RepsEqual.repsEqual(arr2,num));
         assertEquals(0,RepsEqual.repsEqual(arr3,num));
         assertEquals(0,RepsEqual.repsEqual(arr4,num));
-        assertEquals(0,RepsEqual.repsEqual(arr5,num));
+        assertEquals(0 ,RepsEqual.repsEqual(arr5,num));
 
 
     }

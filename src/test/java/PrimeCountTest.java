@@ -22,6 +22,7 @@ public class PrimeCountTest {
         assertFalse(PrimeCount.isPrime(4));
         assertFalse(PrimeCount.isPrime(6));
         assertFalse(PrimeCount.isPrime(8));
+
     }
 
 }
